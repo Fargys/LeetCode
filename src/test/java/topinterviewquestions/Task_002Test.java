@@ -1,6 +1,6 @@
-package denisov;
+package topinterviewquestions;
 
-import denisov.util.ListNode;
+import topinterviewquestions.util.ListNode;
 import org.junit.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;

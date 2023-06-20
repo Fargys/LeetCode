@@ -1,4 +1,4 @@
-package denisov.util;
+package topinterviewquestions.util;
 
 public class ListNode {
     public final int val;

@@ -1,4 +1,4 @@
-package denisov;
+package topinterviewquestions;
 
 import java.util.HashMap;
 import java.util.Map;
